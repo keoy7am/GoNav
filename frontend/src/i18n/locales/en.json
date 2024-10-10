@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "settings": "Settings",
+    "siteTitle": "Go Navigator"
+  },
+  "bookmark": {
+    "add": "Add Bookmark",
+    "title": "Title",
+    "url": "URL",
+    "description": "Description",
+    "category": "Category",
+    "weight": "Weight",
+    "isPrivate": "Private",
+    "urlNotValid": "Unable to verify URL",
+    "noBookmarks": "No bookmarks found",
+    "expandDetails": "Expand Details",
+    "filterAll": "All Bookmarks",
+    "filterPublic": "Public Bookmarks",
+    "filterPrivate": "Private Bookmarks",
+    "edit": "Edit Bookmark",
+    "deleteSuccess": "Bookmark deleted successfully",
+    "deleteError": "Error deleting bookmark",
+    "updateSuccess": "Bookmark updated successfully",
+    "updateError": "Error updating bookmark",
+    "addSuccess": "Bookmark added successfully",
+    "editSuccess": "Bookmark edited successfully"
+    
+  },
+  "category": {
+    "title": "Category",
+    "add": "Add Category",
+    "name": "Category Name",
+    "icon": "Icon",
+    "weight": "Weight",
+    "isPrivate": "Private",
+    "all": "All Categories",
+    "edit": "Edit Category",
+    "addSuccess": "Category added successfully",
+    "updateSuccess": "Category updated successfully",
+    "deleteSuccess": "Category deleted successfully",
+    "deleteError": "Error deleting category",
+    "updateError": "Error updating category",
+    "addError": "Error adding category",
+    "editError": "Error editing category"
+  },
+  "search": "Search",
+  "landing": {
+    "welcome": "Welcome to Go Navigator",
+    "description": "Go Navigator is your personal bookmark management assistant. Easily organize and quickly access all your web favorites, making web browsing more efficient.",
+    "getStarted": "Get Started Now!"
+  },
+  "iconPicker": {
+    "searchIcon": "Search Icon",
+    "icons": "Icons",
+    "selectIcon": "Select Icon"
+  },
+  "common": {
+    "close": "Close",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "select": "Select",
+    "add": "Add",
+    "edit": "Edit",
+    "save": "Save",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No",
+    "confirmAdd": "Confirm Add",
+    "confirmDelete": "Confirm Delete",
+    "weightDesc": "(The larger the number, the later the sorting)",
+    "copyUrl": "Copy URL",
+    "bookmark": "Bookmark",
+    "submit": "Submit",
+    "none": "None",
+    "dataRefreshed": "Data refreshed"
+  },
+  "settings": {
+    "title": "Settings",
+    "publicBookmarks": "Public Bookmarks",
+    "enablePublicBookmarks": "Enable Public Bookmarks",
+    "publicBookmarksUrl": "Public Bookmarks URL",
+    "accessCode": "Access Code",
+    "enableAccessCode": "Enable Access Code",
+    "urlCopied": "URL copied to clipboard",
+    "settingsSaved": "Settings saved",
+    "errorSavingSettings": "Error saving settings",
+    "accessCodeRequired": "Access code is required when enabling access code"
+  },
+  "publicBookmarks": {
+    "title": "Public Bookmarks",
+    "enterAccessCode": "Enter Access Code",
+    "accessCode": "Access Code"
+  },
+  "themeToggle": {
+    "toggleTheme": "Toggle Theme"
+  },
+  "login": {
+    "title": "Login to Your Account",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Login",
+    "registerLink": "Don't have an account? Register here",
+    "failed": "Login failed, please check if the account and password are correct",
+    "success": "Login successfully",
+    "error": "Login failed, please try again"
+  },
+  "register": {
+    "title": "Register a New Account",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Register",
+    "loginLink": "Already have an account? Login here"
+  }
+}

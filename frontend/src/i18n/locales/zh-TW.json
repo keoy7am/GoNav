@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "首頁",
+    "login": "登入",
+    "register": "註冊",
+    "logout": "登出",
+    "settings": "設定",
+    "siteTitle": "導覽趣"
+  },
+  "bookmark": {
+    "add": "新增書籤",
+    "title": "標題",
+    "url": "網址",
+    "description": "描述",
+    "category": "分類",
+    "weight": "權重",
+    "isPrivate": "私人",
+    "urlNotValid": "無法驗證URL",
+    "noBookmarks": "沒有書籤",
+    "expandDetails": "展開詳情",
+    "filterAll": "所有書籤",
+    "filterPublic": "公開書籤",
+    "filterPrivate": "私人書籤",
+    "edit": "編輯書籤",
+    "addSuccess": "新增書籤成功",
+    "editSuccess": "編輯書籤成功",
+    "deleteSuccess": "刪除書籤成功"
+  },
+  "category": {
+    "title": "分類",
+    "add": "新增分類",
+    "name": "分類名稱",
+    "icon": "圖標",
+    "weight": "權重",
+    "isPrivate": "私人",
+    "all": "全部分類",
+    "edit": "編輯分類",
+    "addSuccess": "新增分類成功",
+    "editSuccess": "編輯分類成功",
+    "deleteSuccess": "刪除分類成功",
+    "addError": "新增分類失敗",
+    "editError": "編輯分類失敗",
+    "deleteError": "刪除分類失敗"
+  },
+  "search": "搜尋",
+  "landing": {
+    "welcome": "歡迎使用 Go Navigator",
+    "description": "Go Navigator 是您的個人書籤管理助手。輕鬆組織、快速訪問您的所有網頁收藏，讓網絡瀏覽更加高效。",
+    "getStarted": "立即開始使用！"
+  },
+  "iconPicker": {
+    "searchIcon": "搜尋圖標",
+    "icons": "圖標",
+    "selectIcon": "選擇圖標"
+  },
+  "common": {
+    "close": "關閉",
+    "confirm": "確認",
+    "cancel": "取消",
+    "select": "選擇",
+    "add": "新增",
+    "edit": "編輯",
+    "save": "儲存",
+    "delete": "刪除",
+    "yes": "是",
+    "no": "否",
+    "confirmAdd": "確認新增",
+    "confirmDelete": "確認刪除",
+    "weightDesc": "(數字越大，排序越後面)",
+    "copyUrl": "複製URL",
+    "bookmark": "書籤",
+    "submit": "提交",
+    "none": "無",
+    "dataRefreshed": "資料已重新整理"
+  },
+  "settings": {
+    "title": "設定",
+    "publicBookmarks": "公開書籤",
+    "enablePublicBookmarks": "開放外部瀏覽公開書籤",
+    "publicBookmarksUrl": "公開書籤網址",
+    "accessCode": "存取碼",
+    "enableAccessCode": "啟用存取碼",
+    "urlCopied": "網址已複製到剪貼板",
+    "settingsSaved": "設定已儲存",
+    "errorSavingSettings": "儲存設定時發生錯誤",
+    "accessCodeRequired": "啟用存取碼時必須設置存取碼"
+  },
+  "publicBookmarks": {
+    "title": "公開書籤",
+    "enterAccessCode": "輸入存取碼",
+    "accessCode": "存取碼"
+  },
+  "themeToggle": {
+    "toggleTheme": "切換主題"
+  },
+  "login": {
+    "title": "登入您的帳號",
+    "username": "用戶名",
+    "password": "密碼",
+    "submit": "登入",
+    "registerLink": "還沒有帳號？點此註冊",
+    "failed": "登入失敗，請確認帳號密碼是否正確",
+    "success": "登入成功",
+    "error": "登入失敗，請重試"
+  },
+  "register": {
+    "title": "註冊新帳號",
+    "username": "用戶名",
+    "email": "電子郵件",
+    "password": "密碼",
+    "submit": "註冊",
+    "loginLink": "已有帳號？點此登入"
+  }
+}

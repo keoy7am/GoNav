@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "首页",
+    "login": "登录",
+    "register": "注册",
+    "logout": "登出",
+    "settings": "设置",
+    "siteTitle": "导览趣"
+  },
+  "bookmark": {
+    "add": "添加书签",
+    "title": "标题",
+    "url": "网址",
+    "description": "描述",
+    "category": "分类",
+    "weight": "权重",
+    "isPrivate": "私密",
+    "urlNotValid": "无法验证URL",
+    "noBookmarks": "没有书签",
+    "expandDetails": "展开详情",
+    "filterAll": "所有书签",
+    "filterPublic": "公开书签",
+    "filterPrivate": "私密书签",
+    "edit": "编辑书签",
+    "addSuccess": "新增书签成功",
+    "editSuccess": "编辑书签成功",
+    "deleteSuccess": "删除书签成功"
+  },
+  "category": {
+    "title": "分类",
+    "add": "添加分类",
+    "name": "分类名称",
+    "icon": "图标",
+    "weight": "权重",
+    "isPrivate": "私密",
+    "all": "全部分类",
+    "edit": "编辑分类",
+    "addSuccess": "新增分类成功",
+    "editSuccess": "编辑分类成功",
+    "deleteSuccess": "删除分类成功",
+    "addError": "新增分类失败",
+    "editError": "编辑分类失败",
+    "deleteError": "删除分类失败"
+  },
+  "search": "搜索",
+  "landing": {
+    "welcome": "欢迎使用 Go Navigator",
+    "description": "Go Navigator 是您的个人书签管理助手。轻松组织、快速访问您的所有网页收藏，让网络浏览更加高效。",
+    "getStarted": "立即开始使用！"
+  },
+  "iconPicker": {
+    "searchIcon": "搜索图标",
+    "icons": "图标",
+    "selectIcon": "选择图标"
+  },
+  "common": {
+    "close": "关闭",
+    "confirm": "确认",
+    "cancel": "取消",
+    "select": "选择",
+    "add": "新增",
+    "edit": "编辑",
+    "save": "保存",
+    "delete": "删除",
+    "yes": "是",
+    "no": "否",
+    "confirmAdd": "确认添加",
+    "confirmDelete": "确认删除",
+    "weightDesc": "(数字越大，排序越靠后)",
+    "copyUrl": "复制URL",
+    "bookmark": "书签",
+    "submit": "提交",
+    "none": "无",
+    "dataRefreshed": "数据已重新整理"
+  },
+  "settings": {
+    "title": "设置",
+    "publicBookmarks": "公开书签",
+    "enablePublicBookmarks": "开放外部浏览公开书签",
+    "publicBookmarksUrl": "公开书签网址",
+    "accessCode": "访问码",
+    "enableAccessCode": "启用访问码",
+    "urlCopied": "网址已复制到剪贴板",
+    "settingsSaved": "设置已保存",
+    "errorSavingSettings": "保存设置时发生错误",
+    "accessCodeRequired": "启用访问码时必须设置访问码"
+  },
+  "publicBookmarks": {
+    "title": "公开书签",
+    "enterAccessCode": "输入访问码",
+    "accessCode": "访问码"
+  },
+  "themeToggle": {
+    "toggleTheme": "切换主题"
+  },
+  "login": {
+    "title": "登录您的账号",
+    "username": "用户名",
+    "password": "密码",
+    "submit": "登录",
+    "registerLink": "还没有账号？点击注册",
+    "failed": "登录失败，请检查用户名和密码是否正确",
+    "success": "登录成功",
+    "error": "登录失败，请重试"
+  },
+  "register": {
+    "title": "注册新账号",
+    "username": "用户名",
+    "email": "邮箱",
+    "password": "密码",
+    "submit": "注册",
+    "loginLink": "已经有账号？点击登录",
+    "failed": "注册失败，请检查用户名是否已存在"
+  }
+}
